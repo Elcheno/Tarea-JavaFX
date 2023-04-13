@@ -1,0 +1,13 @@
+#fondo{
+    -fx-background-color: #282828;
+    -fx-text-fill: white;
+}
+
+.texto{
+    -fx-text-fill: white;
+}
+
+.paneles{
+    -fx-background-color: #6D6D6D;
+}
+
